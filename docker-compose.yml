@@ -1,6 +1,6 @@
 version: '3'
 services:
-  centos:
+  appfortune:
     build: .
     volumes:
       - .:/html
